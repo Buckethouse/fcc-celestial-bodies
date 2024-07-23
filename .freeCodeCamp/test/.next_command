@@ -235,3 +235,4 @@ psql -U postgres < universe.sql
 \d
 \c universe
 pg_dump -cC --inserts -U freecodecamp universe > universe > universe.sql
+pg_dump -cC --inserts -U freecodecamp universe > universe > universe.sql
